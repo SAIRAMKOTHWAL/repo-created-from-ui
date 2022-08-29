@@ -1,0 +1,1 @@
+System.debug("Hello from file created in GIT");
